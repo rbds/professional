@@ -1,2 +1,2 @@
 # professional
-website
+website: http://rbds.github.io/professional/
